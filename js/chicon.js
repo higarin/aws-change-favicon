@@ -15,7 +15,7 @@ if (region != null) {
     regionIco = regions[region[1]];
 }
 
-console.debug('Service: ' + serviceIndex + ', Region: ' + regionIco);
+console.debug('Service: ' + service + '(' + serviceIndex + ')'+ ', Region: ' + region);
 
 if (serviceIndex >= 0) {
     UpdateIcon(serviceIndex, regionIco);
