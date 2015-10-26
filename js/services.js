@@ -1,5 +1,5 @@
 
-var services = new Array(
+var services = [
 	'ec2',
 	'elasticmapreduce',
 	'storagegateway',
@@ -52,4 +52,4 @@ var services = new Array(
 	'importexport',
 	'mobilehub',
 	'iot'
-	);
+	];
