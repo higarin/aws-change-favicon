@@ -12,6 +12,9 @@
     }
   ],
   "web_accessible_resources": [
-   "images/*"
- ]
+    "images/*"
+  ],
+  "icons": {
+    "48": "images/icon.png"
+  }
 }
