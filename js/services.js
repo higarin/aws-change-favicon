@@ -51,5 +51,8 @@ var services = [
 	'inspector',
 	'importexport',
 	'mobilehub',
-	'iot'
+	'iot',
+	'dms',
+	'acm',
+	'gamelift'
 	];
